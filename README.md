@@ -8,7 +8,7 @@ Desde ya que cualquier detalle que le quieras agregar es bienvenido!
 
 Valoraremos fidelidad al diseño, código prolijo y semántico, convenciones en nombres de clases (ej BEM).
 
-## Si estás cómodo con usar git:
+## Si te resulta cómodo usar git:
 1. Hacer un fork del repositorio en tu cuenta.
 2. Armar el html y css nuevos según el diseño.
 3. Pushear tus cambios en el fork.
