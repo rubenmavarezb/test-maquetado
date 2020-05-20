@@ -6,7 +6,9 @@ El objetivo del ejercicio es maquetar el diseño usando html y css. Cuanto más 
 Podés armarlo como te sea más cómodo, si preferís usar sass, less, o incluso algún framework (en este caso por favor aclarar si hace falta hacer alguna instalación para poder ver el resultado).
 Desde ya que cualquier detalle que le quieras agregar es bienvenido!
 
-Valoraremos fidelidad al diseño, código prolijo y semántico, convenciones en nombres de clases (ej BEM).
+Valoraremos fidelidad al diseño desktop y mobile (responsive), código prolijo y semántico, convenciones en nombres de clases (ej BEM).
+
+Pasos a seguir:
 
 ## Si te resulta cómodo usar git:
 1. Hacer un fork del repositorio en tu cuenta.
@@ -16,6 +18,6 @@ Valoraremos fidelidad al diseño, código prolijo y semántico, convenciones en 
 5. Avisarnos por el medio en que estábamos en contacto que ya está listo el ejercicio con un link al pull request.
 
 ## Si preferís no usar git:
-1. Descargate este código inicial como .zip con el botón verde de arriba
+1. Descargarte este código inicial como .zip con el botón verde de arriba
 2. Armar el html y css nuevos según el diseño.
 3. Enviarnos un .zip con el código final por el medio en que estábamos en contacto.
