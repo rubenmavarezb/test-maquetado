@@ -3,7 +3,7 @@ En el siguiente vínculo vas a encontrar el diseño de una web hecho en Adobe XD
 https://xd.adobe.com/view/f3229a4d-559d-4a23-500f-6c99f584ac0e-8513/
 Podés alternar entre la vista interactiva o la vista de especificaciones con los botones de la derecha, para poder ver datos de medidas, tipografías, colores, etc.
 
-El objetivo del ejercicio es maquetar el diseño usando html y css. Cuanto más parecido al diseño mejor, de todas maneras si algún detalle se complica mucho podés dejarlo.
+El objetivo del ejercicio es maquetar el diseño usando html y css. Cuanto más fiel al diseño sea el resultado mejor.
 Podés armarlo como te sea más cómodo, si preferís usar sass, less, o incluso algún framework (en este caso por favor aclarar si hace falta hacer alguna instalación para poder ver el resultado).
 ¡Desde ya que cualquier detalle que le quieras agregar es bienvenido!
 
