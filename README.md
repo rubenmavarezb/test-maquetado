@@ -7,7 +7,7 @@ El objetivo del ejercicio es maquetar el diseño usando html y css. Cuanto más 
 Podés armarlo como te sea más cómodo, si preferís usar sass, less, o incluso algún framework (en este caso por favor aclarar si hace falta hacer alguna instalación para poder ver el resultado).
 ¡Desde ya que cualquier detalle que le quieras agregar es bienvenido!
 
-Valoraremos fidelidad al diseño desktop y mobile (responsive), código prolijo y semántico, convenciones en nombres de clases (ej BEM).
+Evaluaremos fidelidad al diseño desktop y mobile (responsive), código prolijo y semántico, convenciones en nombres de clases (ej BEM).
 
 Pasos a seguir:
 
