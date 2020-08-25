@@ -13,7 +13,7 @@ Podés armarlo como te sea más cómodo, si preferís usar sass, less, o incluso
 * Código prolijo y semántico
 * Convenciones en nombres de clases (ej BEM)
 
-#### Puntos opcionales
+#### Puntos opcionales:
 Cualquier detalle que le quieras agregar es bienvenido, pero opcional, aquí algunas sugerencias:
 * Armar un menú desplegable para mobile
 * Hacer una funcionalidad de acordeon para los filtros para ocultar/mostrar cada atributo
