@@ -18,6 +18,7 @@ Cualquier detalle que le quieras agregar es bienvenido, pero opcional, aquí alg
 * Armar un menú desplegable para mobile
 * Hacer una funcionalidad de acordeon para los filtros para ocultar/mostrar cada atributo
 * Hacer que al seleccionar un atributo de los filtros se muestren solo algunos de los productos
+* Agregar un selector o botones arriba a la derecha para cambiar la cantidad de columnas de la grilla de productos entre 2, 3 y 4 en desktop, ó 1 y 2 en mobile.
 * Cargar los productos tomando info desde un archivo JSON externo
 
 ## Pasos a seguir:
