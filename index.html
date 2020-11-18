@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>La Preuve</title>
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<header class='navbar'>
+		<div class='navbar__burger'>
+			<img src="./assets/iconos/bars-solid.svg" alt="">
+		</div>
+		<div class="navbar__logo">
+			<img src="./assets/logo.svg" alt="">
+		</div>
+		<div class="navbar__icons">
+			<a class="navbar__icon"><img src="./assets/iconos/search-solid.svg" alt=""></a>
+			<a class="navbar__icon"><img src="./assets/iconos/user-solid.svg" alt=""></a>
+			<a class="navbar__icon"><img src="./assets/iconos/shopping-cart-solid.svg" alt=""></a>
+		</div>
+		<nav class="navbar__nav">
+			<ul class="navbar__nav__list">
+				<li class="navbar__nav__itemlist"><a class="navbar__nav__link">Sale</a></li>
+				<li class="navbar__nav__itemlist"><a class="navbar__nav__link">E-Shop</a></li>
+				<li class="navbar__nav__itemlist"><a class="navbar__nav__link">Lookbook</a></li>
+				<li class="navbar__nav__itemlist"><a class="navbar__nav__link">Campaña</a></li>
+				<li class="navbar__nav__itemlist"><a class="navbar__nav__link">Locales</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main class="main container">
+
+		<aside class="main__aside">
+			<h2>Zapatillas</h2>
+			<div class="main__categories">
+				<div class="main__div">
+					<h3>Filtrar</h3>
+					<p class="main__closebtn">X</p>
+				</div>
+				<nav class="main__aside__nav">
+					<ul class="main__filters">
+						<li class="main__category">
+							<div>Categoría</div>
+							<nav class="main__category__nav">
+								<ul class="main__options--padding">
+									<li><a>Zapatillas</a></li>
+									<li><a>Zapatos</a></li>
+									<li><a>Botas</a></li>
+									<li><a>Sandalias</a></li>
+									<li><a>Pantuflas</a></li>
+								</ul>
+							</nav>
+						</li>
+						<li class="main__category">
+							<div>Talle</div>
+							<nav class="main__category__nav">
+								<ul class="main__options--padding">
+									<li><a>36</a></li>
+									<li><a>38</a></li>
+									<li><a>40</a></li>
+									<li><a>42</a></li>
+									<li><a>44</a></li>
+								</ul>
+							</nav>
+						</li>
+						<li class="main__category">
+							<div>Color</div>
+							<nav class="main__category__nav">
+								<ul class="main__options--padding">
+									<li><a>Amarillo</a></li>
+									<li><a>Negro</a></li>
+									<li><a>Verde</a></li>
+									<li><a>Azul</a></li>
+									<li><a>Blanco</a></li>
+								</ul>
+							</nav>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</aside>
+
+		<section class="main__products">
+		</section>
+	</main>
+	<footer class="footer">
+		<nav class="footer__nav">
+			<ul class="footer__nav__links">
+				<li class="footer__nav__item"><a href="">Ayuda</a></li>
+				<li class="footer__nav__item"><a href="">Contacto</a></li>
+				<li class="footer__nav__item"><a href="">Términos y condiciones</a></li>
+				<li class="footer__nav__item"><a href="">Políticas de privacidad</a></li>
+			</ul>
+		</nav>
+	</footer>
+	<script defer src="./js/db.js"></script>
+	<script defer src="./js/index.js"></script>
+</body>
+</html>
